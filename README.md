@@ -1,6 +1,8 @@
 # 🧠 Módulo de IA - Escola da Nuvem ☁️
 
-![Inteligência Artificial e Nuvem](https://i.imgur.com/Pldw5HB.jpeg)
+<div align="center">
+    <img src="https://i.imgur.com/Pldw5HB.jpeg" alt="Inteligência Artificial e Nuvem" width="400" />
+</div>
 
 Este repositório contém as atividades e projetos desenvolvidos durante o módulo de **Inteligência Artificial (IA)** do programa **re/Start** da **Escola da Nuvem**. Aqui, você encontrará códigos, anotações e recursos utilizados em sala de aula, com foco em IA, Python, Machine Learning e ferramentas da AWS. 🚀
 
