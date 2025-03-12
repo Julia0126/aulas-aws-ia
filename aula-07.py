@@ -1,3 +1,6 @@
+# Desafio
+# Criar um programa para verificar se uma frase é um palíndromo.
+
 def is_palindramo(texto):
     texto_limpo = ''.join(char.lower()
                           for char in texto
